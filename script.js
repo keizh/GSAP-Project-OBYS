@@ -274,7 +274,7 @@ function gooyeffect() {
   });
 }
 
-disableScroll();
+// disableScroll();
 loader();
 locomotiveJS();
 cursorAnimation();
